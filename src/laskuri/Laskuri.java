@@ -1,6 +1,8 @@
 
 package laskuri;
 
+// Kommentti lisätty branchissa uusiHaarauma
+
 public class Laskuri{
   /* laskuriolion kentan arvoa voi kasvattaa yhdella kutsumalla metodia
      lisaa(). Arvoa voi tarkastella ja sen voi nollata.                 */
